@@ -1,2 +1,2 @@
 # MAP
-Code for CVPRW 2025 paper: MAP (MAP: End-to-End Autonomous Driving via Map Assistant Planning)
+Code and pretrained models for the CVPRW 2025 paper "MAP: Map Assistant Planning for Multi-agent Trajectory Prediction". Coming soon.
